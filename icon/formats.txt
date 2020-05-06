@@ -1,6 +1,0 @@
-1. Svg
-2. Png:
-icon_32.png
-icon_64.png
-icon_128.png
-icon_256.png
